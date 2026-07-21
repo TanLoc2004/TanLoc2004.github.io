@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 # Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
 
@@ -21,9 +19,12 @@ pre: " <b> 4.1. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Jignesh Shah** - Director, Open Source Databases
-- **Erica Liu** - Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+- **Huynh Thai Linh** - First Cloud AI Journey
+- **Huynh An Khuong, Mai Quoc Anh, Nguyen Tran Minh Quan** - FCAJ Challenger
+- **Nguyen Thi Quynh Nhu** - First Cloud AI Journey
+- **Nghia Tran** - First Cloud AI Journey
+- **Tran Minh Quan** - First Cloud AI Journey
+- **Khac Uy Pham**
 
 ### Nội Dung Nổi Bật
 
