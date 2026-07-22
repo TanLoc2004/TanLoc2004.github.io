@@ -31,6 +31,6 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân t
 
 ### Cần cải thiện
 
-* Nâng cao tính kỹ luật, chấp hành nghiêm chỉnh nội quy của công ty hoặc bất kỳ trong một tổ chức nào
-* Cải thiện trong cách tư duy giải quyết vấn đề
-* Học cách giao tiếp tốt hơn trong giao tiếp hằng ngày và trong công việc, xử lý tình huống
+* Nâng cao tính chủ động, tự tìm hiểu sâu về các kiến thức về ngành và nâng cao kỹ năng sử dụng công cụ.
+* Cải thiện trong cách tư duy giải quyết vấn đề.
+* Học cách giao tiếp tốt hơn trong giao tiếp hằng ngày và trong công việc báo cáo.

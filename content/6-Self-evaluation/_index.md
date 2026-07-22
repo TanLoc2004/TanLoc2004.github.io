@@ -30,6 +30,6 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 
 ### Needs Improvement
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
+* Enhance proactiveness by independently exploring industry knowledge in greater depth and improving proficiency in using relevant tools.
 * Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+* Enhance communication skills in both daily interactions and professional reporting.
