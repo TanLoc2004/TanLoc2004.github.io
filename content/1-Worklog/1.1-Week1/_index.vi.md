@@ -26,5 +26,9 @@ pre: " <b> 1.1. </b> "
 
 * Hiểu các quy định của group
 
+* Đặt thành công đồng phục
+
+* Tham gia nhóm
+
 
 
