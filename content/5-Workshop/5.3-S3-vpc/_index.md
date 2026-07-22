@@ -1,18 +1,20 @@
 ---
-title : "Access S3 from VPC"
-date : 2024-01-01
-weight : 3
-chapter : false
-pre : " <b> 5.3. </b> "
+title: "Deployment Walkthrough"
+date: 2024-01-01
+weight: 3
+chapter: false
+alwaysopen: true
+pre: " <b> 5.3 </b> "
 ---
 
-#### Using Gateway endpoint
+Welcome to the main practical section of the project! Here, we will dive into configuring AWS from a completely blank account until the Galaxy Brain system is fully operational on the Cloud using Serverless architecture.
 
-In this section, you will create **a Gateway eendpoint** to access **Amazon S3** from **an EC2 instance**. **The Gateway endpoint** will allow upload an object to S3 buckets without using **the Public Internet**. To create an endpoint, you must specify the VPC in which you want to create the endpoint, and the service (in this case, S3) to which you want to establish the connection.
+---
 
-![overview](/images/5-Workshop/5.3-S3-vpc/diagram2.png)
+### Hands-on Roadmap
+We will go through 3 core steps:
+1. **[Step 1: Database Setup](step-1-database-setup/)**: Initialize the DynamoDB Database.
+2. **[Step 2: Backend Deployment](step-2-backend-deployment/)**: Run Backend source code using AWS Lambda & API Gateway.
+3. **[Step 3: Frontend Deployment](step-3-frontend-deployment/)**: Host the Web UI securely on S3 and CloudFront.
 
-#### Content
-
-- [Create gateway endpoint](3.1-create-gwe/)
-- [Test gateway endpoint](3.2-test-gwe/)
+Get your browser and your FastAPI code ready. Let's begin!

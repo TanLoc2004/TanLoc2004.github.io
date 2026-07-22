@@ -1,19 +1,23 @@
 ---
-title : "Giới thiệu"
-date : 2024-01-01 
-weight : 1
-chapter : false
-pre : " <b> 5.1. </b> "
+title: "Lý thuyết & Mục tiêu"
+date: 2024-01-01
+weight: 1
+chapter: false
+alwaysopen: true
+pre: " <b> 5.1 </b> "
 ---
 
-#### Giới thiệu về VPC Endpoint
+Trong phần này, chúng ta sẽ tìm hiểu về các khái niệm cốt lõi tạo nên kiến trúc của hệ thống Galaxy Brain.
 
-+ Điểm cuối VPC (endpoint) là thiết bị ảo. Chúng là các thành phần VPC có thể mở rộng theo chiều ngang, dự phòng và có tính sẵn sàng cao. Chúng cho phép giao tiếp giữa tài nguyên điện toán của bạn và dịch vụ AWS mà không gây ra rủi ro về tính sẵn sàng.
-+ Tài nguyên điện toán đang chạy trong VPC có thể truy cập Amazon S3 bằng cách sử dụng điểm cuối Gateway. Interface Endpoint  PrivateLink có thể được sử dụng bởi tài nguyên chạy trong VPC hoặc tại TTDL.
+---
 
-#### Tổng quan về workshop
-Trong workshop này, bạn sẽ sử dụng hai VPC.
-+ **"VPC Cloud"** dành cho các tài nguyên cloud như Gateway endpoint và EC2 instance để kiểm tra.
-+ **"VPC On-Prem"** mô phỏng môi trường truyền thống như nhà máy hoặc trung tâm dữ liệu của công ty. Một EC2 Instance chạy phần mềm StrongSwan VPN đã được triển khai trong "VPC On-prem" và được cấu hình tự động để thiết lập đường hầm VPN Site-to-Site với AWS Transit Gateway. VPN này mô phỏng kết nối từ một vị trí tại TTDL (on-prem) với AWS cloud. Để giảm thiểu chi phí, chỉ một phiên bản VPN được cung cấp để hỗ trợ workshop này. Khi lập kế hoạch kết nối VPN cho production workloads của bạn, AWS khuyên bạn nên sử dụng nhiều thiết bị VPN để có tính sẵn sàng cao.
+### Mục tiêu đồ án
+Đồ án tập trung vào việc thiết kế và xây dựng một hệ thống thi trắc nghiệm trực tuyến (Quiz App) hoàn chỉnh. Đảm bảo luồng dữ liệu thông suốt từ việc lưu trữ cơ sở dữ liệu, xử lý nghiệp vụ Backend, cho đến phân phối giao diện Frontend tới người dùng cuối với tốc độ nhanh chóng và tối ưu chi phí thông qua kiến trúc Cloud-Native Serverless.
 
-![overview](/images/5-Workshop/5.1-Workshop-overview/diagram1.png)
+---
+
+### Các khái niệm AWS cơ bản
+- **Amazon S3 & CloudFront:** Bộ đôi hoàn hảo để lưu trữ website tĩnh (Frontend) và phân phối nội dung với tốc độ cực nhanh trên toàn cầu, thay thế cho các máy chủ web truyền thống.
+- **Amazon API Gateway:** Cổng giao tiếp an toàn, tiếp nhận các HTTP Request từ Frontend và định tuyến xuống Backend.
+- **AWS Lambda:** Dịch vụ điện toán không máy chủ (Serverless compute). Ứng dụng Backend (viết bằng FastAPI) sẽ được chạy tự động trên Lambda mà không cần quản trị máy chủ ảo hay vùng mạng (VPC).
+- **Amazon DynamoDB:** Cơ sở dữ liệu NoSQL với khả năng tự động mở rộng, cực kỳ phù hợp cho kiến trúc Serverless để lưu trữ dữ liệu người dùng, bài thi và kết quả.
