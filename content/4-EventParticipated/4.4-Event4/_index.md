@@ -1,13 +1,13 @@
 ---
-title: "Event 1"
-date: 2026-05-30
+title: "Event 4"
+date: 2026-07-11
 weight: 1
 chapter: false
-pre: " <b> 4.1. </b> "
+pre: " <b> 4.2. </b> "
 ---
 
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: “Mini meetup FCAJ”
 
 ### Event Objectives
 
@@ -18,12 +18,10 @@ pre: " <b> 4.1. </b> "
 
 ### Speakers
 
-- **Huynh Thai Linh** - First Cloud AI Journey
-- **Huynh An Khuong, Mai Quoc Anh, Nguyen Tran Minh Quan** - FCAJ Challenger
-- **Nguyen Thi Quynh Nhu** - First Cloud AI Journey
-- **Nghia Tran** - First Cloud AI Journey
-- **Tran Minh Quan** - First Cloud AI Journey
-- **Khac Uy Pham**
+- **Mr. Nguyen Huynh Son** – Freshly graduated from HUFLIT, Ex Infrastructure Reliability Engineer at SPS
+- **Mr. Ngo Le Tan Huy** 
+- **Mr. Thinh Nguyen** – DevOps/DevSecOps/Cloud, EngineerStyl Solutions, First Cloud AI Journey
+
 
 ### Key Highlights
 

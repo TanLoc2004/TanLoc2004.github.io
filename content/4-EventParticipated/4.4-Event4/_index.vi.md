@@ -1,5 +1,5 @@
 ---
-title: "Event 2"
+title: "Event 4"
 date: 2024-01-01
 weight: 1
 chapter: false
@@ -18,12 +18,9 @@ pre: " <b> 4.2. </b> "
 
 ### Danh Sách Diễn Giả
 
-- **Mr. Dat Pham** – Data Analytics Engineer
-- **Mr. Cuong Nguyen** – Process Engineer
-- **Mr. Trong Truong** – DevOps Engineer @ Endava Vietnam
-- **Mr. Nghi Danh** – AI Engineer – AWS Community Builder – AWS Student Builder Group Leader
-- **Mr. Kien Dinh** – Lead developer at startup
-- **Mr. Tho Nguyen** – Student
+- **Mr. Nguyen Huynh Son** – Freshly graduated from HUFLIT, Ex Infrastructure Reliability Engineer at SPS
+- **Mr. Ngo Le Tan Huy** 
+- **Mr. Thinh Nguyen** – DevOps/DevSecOps/Cloud, EngineerStyl Solutions, First Cloud AI Journey
 
 ### Nội Dung Nổi Bật
 
