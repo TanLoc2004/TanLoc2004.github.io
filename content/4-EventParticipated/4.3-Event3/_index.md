@@ -12,7 +12,10 @@ pre: " <b> 4.3. </b> "
 
 ### Event Objectives
 
-
+- An overview of the job market and career trends in Cloud Computing.
+- The differences between studying at university and working in the industry.
+- Thoughts and perspectives on various aspects of life.
+- Industry applications featuring cloud technologies.
 
 ### Speakers
 
@@ -23,19 +26,30 @@ pre: " <b> 4.3. </b> "
 
 ### Key Highlights
 
+#### Job Market and Career Trends
 
+- The demand for low-skilled workers is decreasing, while the demand for highly skilled professionals is increasing.
+
+#### Perspectives on Fear
+
+- Everyone has at least one fear within themselves.
+- Learning how to understand and view fear from a different perspective.
 
 ### Key Takeaways
 
-
+- Gained an overall understanding of the job market and career trends in the field of Cloud Computing.
+- Recognized the differences between academic knowledge and the real-world requirements of businesses.
+- Learned how to understand fear and overcome it.
 
 ### Applying to Work
 
-
+- Prepare myself more effectively for internship or fresher opportunities.
+- Gain familiarity with software development and operational workflows in a professional environment.
+- Develop the confidence to overcome my own fears and embrace new challenges.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Participating in the workshop "Enterprise Cloud Architectures and Industry Application featuring Cloud Kinetics & Renova Cloud" was a valuable experience that provided me with a comprehensive understanding of the job market, valuable life insights, and a clearer understanding of business expectations.
 
 #### Some event photos
 ![Ảnh sự kiện](/images/event3.png)

@@ -30,24 +30,31 @@ pre: " <b> 4.1. </b> "
 
 #### AWS Cloud Quest và Floci
 
-
+- Improve AWS skills through the AWS Cloud Quest game, which is designed for beginners learning AWS.
+- Introduction to Floci, a free cloud simulation platform.
 
 #### Why We Always Need Confidence
 
-
-
+- The power of self-confidence.
+- Techniques for building and boosting self-confidence.
 
 ### Key Takeaways
 
-
+- Gained a better understanding of AWS Cloud Quest and how to use Floci to explore and test AWS services for free.
+- Learned from the experiences shared by participants in Hackathon competitions.
+- Learned techniques for building and boosting self-confidence.
+- Gained insights into website management and the operational workflow of the "Tử Vi Đại Việt" platform.
+- Developed a deeper understanding of what lies beneath DevOps and the foundational knowledge and skills required before pursuing a DevOps career.
 
 ### Applying to Work
 
-
+- Build greater confidence in learning and professional work.
+- Enhance my skills in using AWS services and learn how to optimize costs when deploying applications in production environments.
+- Apply analytical thinking and problem-solving skills to my work.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Participating in the "Meetup FCAJ" workshop was a valuable experience that helped me gain a better understanding of AWS Cloud Quest, Floci, the accomplishments of Hackathon participants, the power of self-confidence, and the knowledge required to become a DevOps Engineer.
 
 #### Some event photos
 ![Ảnh sự kiện](/images/event1.png)

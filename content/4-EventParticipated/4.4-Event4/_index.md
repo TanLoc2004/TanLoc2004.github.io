@@ -25,19 +25,28 @@ pre: " <b> 4.4. </b> "
 
 ### Key Highlights
 
+#### AWS Security Agent
 
+Security services and tools for testing web application security across the entire software development lifecycle, from the design phase and code development to production deployment.
+
+#### AWS Certified Cloud Practitioner
+
+#### SLA and Monitoring
 
 ### Key Takeaways
 
-
+- Gained a solid understanding of AWS Cloud fundamentals and the learning roadmap for the AWS Certified Cloud Practitioner certification.
+- Understood the importance of Service Level Agreements (SLAs) and the role of monitoring in early risk detection, maintaining service quality, and improving user experience.
+- Learned about methods for enhancing web application security using AWS Security Agent, including design reviews, code reviews, and automated penetration testing to identify and remediate security vulnerabilities early in the software development lifecycle.
 
 ### Applying to Work
 
-
+- Apply risk management principles in system operations by continuously monitoring, evaluating, improving, and resolving issues to ensure system availability and enhance user experience.
+- Use AWS Security Agent to strengthen the security of the system.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Participating in the "Meetup FCAJ" workshop was a valuable learning experience. It provided me with a comprehensive understanding of AWS Security Agent, the AWS Certified Cloud Practitioner certification, Service Level Agreements (SLAs), and the importance of monitoring in effective risk management.
 
 #### Some event photos
 ![Ảnh sự kiện](/images/event4.png)
