@@ -42,4 +42,4 @@ pre: " <b> 4.2. </b> "
 Attending the **“Mini meetup FCAJ”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
 
 #### Some event photos
-*Add your event photos here*  
+![Ảnh sự kiện](/images/event2.png)

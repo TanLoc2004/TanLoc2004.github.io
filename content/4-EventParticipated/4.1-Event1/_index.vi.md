@@ -59,4 +59,4 @@ Tham gia workshop **“Meetup FACJ”** là một trải nghiệm rất bổ íc
 
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
+![Ảnh sự kiện](/images/event1.png)

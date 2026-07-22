@@ -7,14 +7,13 @@ pre: " <b> 4.4. </b> "
 ---
 
 
-# Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
+# Bài thu hoạch “Meetup FCAJ”
 
 ### Mục Đích Của Sự Kiện
 
-- Chia sẻ best practices trong thiết kế ứng dụng hiện đại
-- Giới thiệu phương pháp DDD và event-driven architecture
-- Hướng dẫn lựa chọn compute services phù hợp
-- Giới thiệu công cụ AI hỗ trợ development lifecycle
+- SLA and Monitoring From SLA to Monitoring what really matters
+- Inside The Exam: AWS Cloud Practitioner
+- Securing Your Web Apps With AWS Security Agent
 
 ### Danh Sách Diễn Giả
 
@@ -24,31 +23,28 @@ pre: " <b> 4.4. </b> "
 
 ### Nội Dung Nổi Bật
 
-#### Thị trường làm việc và xu hướng nghề nghiệp
+#### AWS Security Agent
 
-- Giảm số lượng nhân sự có trình độ thấp, tăng yều cầu về người có trình độ cao.
+- Dịch vụ, công cụ kiểm thử bảo mật ứng dụng, web từ giai đoạn thiết kế, viết mã, cho đến khi triển khai thực tế.
 
-#### Chia sẻ về cách định nghĩa về nỗi sợ
+#### AWS Certified Cloud Practitioner
 
-- Bên trong mỗi người đều có ít nhất 1 nỗi sợ.
-- Cách nhìn nhận về nỗi sợ.
+#### SLA and Monitoring
 
 ### Những Gì Học Được
 
-- Hiểu tổng quan về thị trường việc làm và xu hướng phát triển của lĩnh vực Cloud Computing.
-- Nhận thức được sự khác biệt giữa kiến thức học ở trường và yêu cầu thực tế của doanh nghiệp.
-- Học được cách nhìn nhận về nỗi sợ và vượt qua chúng.
+- Hiểu được các kiến thức nền tảng về AWS Cloud và lộ trình ôn tập chứng chỉ AWS Certified Cloud Practitioner.
+- Hiểu được tầm quan trọng của Service Level Agreement (SLA) và vai trò của Monitoring trong việc phát hiện sớm rủi ro, đảm bảo chất lượng dịch vụ và nâng cao trải nghiệm người dùng.
+- Biết được các phương pháp tăng cường bảo mật cho ứng dụng web bằng AWS Security Agent, từ đánh giá thiết kế, rà soát mã nguồn đến kiểm thử xâm nhập tự động nhằm phát hiện và khắc phục lỗ hổng bảo mật sớm trong vòng đời phát triển phần mềm.
 
 ### Ứng Dụng Vào Công Việc
 
-- Chuẩn bị tốt hơn cho vị trí thực tập hoặc fresher.
-- Làm quen với quy trình phát triển và vận hành phần mềm trong doanh nghiệp.
-- Tự mình vượt qua nỗi sợ của bản thân.
+- Áp dụng tư duy quản lý rủi ro trong vận hành hệ thống bằng cách liên tục theo dõi, đánh giá, cải tiến và xử lý sự cố nhằm đảm bảo tính sẵn sàng và nâng cao trải nghiệm của người dùng.
+- Sử dụng dịch vụ AWS Security Agent nâng cao bảo mật cho hệ thống.
 
 ### Trải nghiệm trong event
 
-Tham gia workshop **“Enterprise Cloud Architectures and Industry Application featuring Cloud Kinetics & Renova Cloud”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về thị trường việc làm, kiến thức đời sống, nhìn nhận rõ hơn về yêu cầu của doanh nghiệp. Một số trải nghiệm nổi bật:
-
+Tham gia workshop **“Meetup FCAJ”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về AWS Security Agent, chứng chỉ AWS Certified Cloud Practitioner, SLA và hoạt động giám sát trong quản lý rủi ro.
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
+![Ảnh sự kiện](/images/event4.png)

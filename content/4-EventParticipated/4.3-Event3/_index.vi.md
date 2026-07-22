@@ -53,5 +53,5 @@ Tham gia workshop **“Enterprise Cloud Architectures and Industry Application f
 
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
+![Ảnh sự kiện](/images/event3.png)
 
