@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Summary Report: “Mini meetup FCAJ”
+# Summary Report: “Meetup FCAJ”
 
 ### Event Objectives
 

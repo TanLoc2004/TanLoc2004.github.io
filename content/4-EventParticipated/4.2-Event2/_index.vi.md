@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Bài thu hoạch “Mini meetup FCAJ”
+# Bài thu hoạch “Meetup FCAJ”
 
 ### Mục Đích Của Sự Kiện
 
