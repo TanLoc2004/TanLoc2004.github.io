@@ -3,7 +3,7 @@ title: "Event 3"
 date: 2026-07-04
 weight: 1
 chapter: false
-pre: " <b> 4.2. </b> "
+pre: " <b> 4.3. </b> "
 ---
 
 
@@ -49,7 +49,7 @@ pre: " <b> 4.2. </b> "
 
 ### Trải nghiệm trong event
 
-Tham gia workshop **“Enterprise Cloud Architectures and Industry Application featuring Cloud Kinetics & Renova Cloud”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về thị trường việc làm, kiến thức đời sống, nhìn nhận rõ hơn về yêu cầu của doanh nghiệp. Một số trải nghiệm nổi bật:
+Tham gia workshop **“Enterprise Cloud Architectures and Industry Application featuring Cloud Kinetics & Renova Cloud”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về thị trường việc làm, kiến thức đời sống, nhìn nhận rõ hơn về yêu cầu của doanh nghiệp. 
 
 
 #### Một số hình ảnh khi tham gia sự kiện

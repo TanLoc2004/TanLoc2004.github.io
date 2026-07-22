@@ -1,6 +1,6 @@
 ---
 title: "Event 2"
-date: 2024-01-01
+date: 2026-06-13
 weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
@@ -11,10 +11,10 @@ pre: " <b> 4.2. </b> "
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- From Real-World Experience to Multinational Corporate Culture
+- What does a DevOps Engineer really do? 
+- From First Cloud AI Journey to AWS Partner
+- A calable Url shortening service on AWS
 
 ### Speakers
 
@@ -39,7 +39,7 @@ pre: " <b> 4.2. </b> "
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Attending the **“Mini meetup FCAJ”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
 
 #### Some event photos
 *Add your event photos here*  

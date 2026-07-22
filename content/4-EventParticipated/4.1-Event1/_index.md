@@ -11,10 +11,11 @@ pre: " <b> 4.1. </b> "
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Level up your AWS skill s with cloud quest and floci.
+- Hakathon
+- Why We Always Need Confidence
+- Introduction to website "Tu vi Dai Viet"
+- The hidden Iceberg of a Project: DevOps before Disaster
 
 ### Speakers
 
@@ -26,6 +27,13 @@ pre: " <b> 4.1. </b> "
 - **Khac Uy Pham**
 
 ### Key Highlights
+
+#### AWS Cloud Quest và Floci
+
+
+
+#### Why We Always Need Confidence
+
 
 
 
